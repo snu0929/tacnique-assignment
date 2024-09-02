@@ -45,7 +45,7 @@ This repository contains a React application for managing users. The application
 - You can view the deployed application at:
 
 ## Deployment Link
-https://app.netlify.com/sites/fantastic-churros-c8180c/deploys/66d1d8b419240c3f1fae03e2
+https://66d1d8b419240c3f1fae03e2--fantastic-churros-c8180c.netlify.app/
 ## Screenshots
 
 Here are some screenshots of the application:
